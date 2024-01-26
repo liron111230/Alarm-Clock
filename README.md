@@ -19,6 +19,6 @@ reset and initialization of initial values.
 ![image](https://github.com/liron111230/Verilog-Projects/assets/153482060/641f4081-84cd-4b2c-8154-fc66be1c33d0)
 
 
-The alarm turning on at 13:08 for the duration i set, and afterward, the alarm-off function in 
+The alarm turns on at 13:08 for the set duration, and then you can observe the alarm-off function in action for the second alarm. 
 ![image](https://github.com/liron111230/Verilog-Projects/assets/153482060/481da5e1-98f1-4ecc-8ff7-2e750b186e84)
 
