@@ -15,7 +15,9 @@ off_Alarm - Turns off the alarm.
 dur_Alarm - Sets the duration of the alarm in minutes (0-15).
 
 **Outputs Explanation**
+
 Clock - A 16-bit vector that represents the time in HEX format.
+
 Alarm - Displays the alarm status (1 for an active alarm).
 
 
